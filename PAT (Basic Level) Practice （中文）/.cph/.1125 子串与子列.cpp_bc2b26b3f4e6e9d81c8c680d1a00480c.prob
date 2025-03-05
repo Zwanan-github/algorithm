@@ -1,0 +1,1 @@
+{"name":"Local: 1125 子串与子列","url":"/home/zwanan/code-workspace/algorithm/PAT (Basic Level) Practice （中文）/1125 子串与子列.cpp","tests":[{"id":1741172080498,"input":"atpaaabpabttpcat\npat","output":"pabt"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/zwanan/code-workspace/algorithm/PAT (Basic Level) Practice （中文）/1125 子串与子列.cpp","group":"local","local":true}
